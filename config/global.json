@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "HollywoodStarPop.com": {
+      "applicationId": "lEsI75aqh9zaRkuU9PbR4TXK1R9EhbtOV2szt84w",
+      "masterKey": "bfnAx9Klf3lt3Lf3PPihE2aZrRViqJdjpBkGtXHz"
+    },
+    "_default": {
+      "link": "HollywoodStarPop.com"
+    }
+  }
+}
